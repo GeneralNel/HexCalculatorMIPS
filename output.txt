@@ -1,0 +1,28 @@
+Input: 10
+Input: *
+Input: 10
+Result: 10 * 10 = 100
+Input: *
+Input: 22
+Result: 100 * 22 = 2200
+Input: /
+Input: 7
+Input: =
+Result: 2200 / 7 = 314
+Input: s
+Save: 314
+Input: 20
+Input: *
+Input: 20
+Result: 20 * 20 = 400
+Input: *
+Input: 22
+Result: 400 * 22 = 8800
+Input: /
+Input: 7
+Result: 8800 / 7 = 1257
+Input: -
+Input: r
+Read: 314
+Input: =
+Result: 1257 - 314 = 943
